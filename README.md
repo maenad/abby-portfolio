@@ -1,9 +1,9 @@
 # A bit about me.
 Hello! I hope that you are doing great!
 
-My name is Abby and I am a UI/UX with knowledge in web development. 
+My name is Abby and I am a UI/UX developer. What does that mean?
 
-Currently working with Figma, Adobe XD, Miro and Photoshop. For web layout and styling I like to use SASS (besides the classic HTML/CSS combo), nevertheless I am always open to learn and add new tools to my repertory.
+I work doing UI/UX design alongside the first stages of web layout and styling for front-end development (mostly HTML & CSS).
 
 Portfolio: 🔥 behance.net/colina-dev 
 🌐 http://abigailcolina.com/
